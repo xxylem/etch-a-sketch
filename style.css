@@ -1,8 +1,13 @@
+#top-bar {
+  text-align: center;
+  margin: 0 auto;
+}
+
 #container {
+  margin: 0 auto;
   display: grid;
   width: 90vh;
   height: 90vh;
-  gap: 1px;
 }
 
 .cell {
